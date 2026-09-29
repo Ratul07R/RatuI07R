@@ -63,14 +63,6 @@ I am a passionate Software Developer and Consultant who builds real-world applic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul07R&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratul07R&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ratul07R&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ### 🌟 Featured Projects
