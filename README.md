@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rakibul Islam Ratul 👋</h1>
-<h3 align="center">AI-Powered Digital Solutions Consultant | Software Developer | Digital Marketer</h3>
+<h3 align="center">Software Developer | AI & Data Solutions Consultant | Digital Strategist</h3>
 
 <p align="center">
   <a href="https://ratul7.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
@@ -8,43 +8,50 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=AI-Powered+Digital+Solutions+Consultant;Software+Developer;Digital+Marketing+Expert;Data+Analysis+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Data+Solutions+Consultant;Digital+Strategist;Building+Real-World+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I research real problems, think strategically, develop original frameworks, and use AI & technology to build practical solutions — across digital growth, marketing, automation, web & app development, and business research.
+I am a passionate Software Developer and Consultant who builds real-world applications, data pipelines, and digital solutions. I combine technical expertise with strategic research to solve complex problems — from AI visibility tracking to ESG data mapping and full-stack web development.
 
-- 🔭 I’m currently building **AI-assisted software and automation tools**
-- 🌱 I’m currently learning **Advanced JavaScript & AI Integrations**
-- 💬 Ask me about **Digital Marketing, AI Tools, Web Development, Data Analysis**
+- 🔭 I’m currently building **AI & Data-driven applications** using TypeScript and Python.
+- 🌱 I’m constantly exploring **System Design, Advanced Backend Architecture, and QA Automation**.
+- 💬 Ask me about **Python, TypeScript, Java, Supabase, Vercel, PRD Writing, QA Testing, and Digital Marketing**.
 - 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Capabilities
 
-**Frontend & Web Development:**
+**Languages:**
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Digital Marketing & Analytics:**
+**Frameworks, Databases & Deployment:**
 <p>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
-</p>
-
-**Data, AI & Automation:**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Assisted-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Product, Research & Strategy:**
+<p>
+  <img src="https://img.shields.io/badge/PRD_Writing-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  <img src="https://img.shields.io/badge/QA_Testing-FF5733?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Market_Research-000000?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Marketing-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </p>
 
 ---
@@ -68,10 +75,9 @@ I research real problems, think strategically, develop original frameworks, and 
 
 ### 🌟 Featured Projects
 
-- **📊 MarkaAI** — A marketing analytics dashboard for tracking impressions, CTR, conversions, and revenue.
-- **📈 WebPulse** — A real-time website analytics dashboard prototype.
-- **📑 SheetAI** — A browser-based smart spreadsheet tool built with AI-assisted development.
-- **🚀 NexaFlow** — A dark-themed SaaS marketing landing page.
+- **🧠 GEO-Scope** — AI visibility tracker — see what ChatGPT, Gemini & Perplexity say about your brand. *(TypeScript)*
+- **🌍 esg-tracker** — Open-source alternative data pipeline mapping ESG water pollution risks in South Asian supply chains. *(Python)*
+- **🛡️ EnvEvidence** — A comprehensive platform for environmental evidence tracking and data management. *(TypeScript)*
 
 ---
 
