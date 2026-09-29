@@ -59,16 +59,16 @@ I am a passionate Software Developer and Consultant who builds real-world applic
 ### 📊 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RatuI07R&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatuI07R&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ratul07R&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratul07R&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatuI07R&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratul07R&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RatuI07R&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ratul07R&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
